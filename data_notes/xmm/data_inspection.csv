@@ -1,0 +1,397 @@
+Obs ID,M1S,M1U,M2S,M2U,PNS,PNU,Comments
+0008030201,Bad,-,Good,-,Good,,
+0008030301,Good,,Bad,,Good,,"Half of the data is flared, but algorithm seems to be working."
+0008030601,Good,,Good,,Good,,
+0010420201,Good,,Good,,Good,,
+0012440101,Good,,Good,,Good,,
+0018741001,Good,,Good,,Good,,
+0030140101,Good,,Good,,Good,,
+0030140201,Good,,Good,,Good,,Mostly flared data
+0030140301,Good,,Good,,Good,,half of the data is flared
+0057740301,Good,,Good,,Good,,
+0057740401,Good,,Good,,Good,,
+0065140101,Good,,Good,,Good,,
+0065140201,Good,,Good,,Good,,
+0083150401,Good,,Good,,Good,,half of the data looks flared
+0083150601,Good,,Good,,Bad,,Relative less observing time and flared data
+0083150801,Bad,,Bad,,Bad,,"Algorithm not working properly, flared data"
+0083151001,Good,,Good,,Bad,,"only first 2000 seconds good, rest is flared data"
+0086950201,Good,,Good,,Good,,
+0090050601,Good,,Good,,Good,,
+0093200101,Good,,Good,,Good,,
+0093640701,Bad,,Good,,Bad,,Algorithm not working properly for M1 and PN
+0094800201,Good,,Good,,Good,,Flared
+0095010901,Good,,Good,,Improper hist,,Flared data
+0095011101,Good,,Good,,Good,,
+0095011301,Bad,,Bad,,Bad,,Flared data
+0097820101,Good,,Good,,Good,,
+0103060401,Good,,Good,,Good,,Corner light curve missing in PN
+0103660101,Good,,Good,,Good,,
+0103860601,Good,,Good,,Good,,
+0105260701,Good,,Good,,Good,,
+0105260801,Good,,Good,,Good,,
+0105260901,Good,,Good,,Good,,
+0105261001,Good,Good,Good,Good,Good,Good,PNS is flared
+0105261101,Good,,Good,,Good,,
+0105262001,Good,,Good,,Good,,
+0105262101,Good,,Good,,Good,,
+0105262201,,Good,,Good,Good,,
+0105262501,Good,,Good,,Good,,
+0105660101,Good,,Good,,Good,,
+0107260101,Good,,Good,,Good,,
+0108460101,Good,,Good,,Good,,
+0108460201,,Good,,Good,,Good,"PNU002 (with less observing time), PNU003 are good"
+0108460301,Good,,Good,,,Good,PNU's half of the data seems flared
+0109070201,Good,,Good,-,Good,,Flared data for M2U and less observing time
+0109920101,Good,,Good,,Good,,
+0109920301,Good,,Good,,,,
+0109930101,Good,,Good,,Good,,
+0109950101,Good,,Good,,Good,,
+0109950201,Good,,Good,,Good,,
+0109980301,Good,,Good,,Good,,
+0111020101,Good,,Good,,,,
+0111020201,Good,,Good,,,,
+0111270201,Have a relook?,,Good,,Bad,,"M1 should be similar to M2, PN should have been plotted"
+0111870101,-,,-,,-,,Flared data
+0111870301,Good,,Good,,Good,,More than half flared
+0111870401,Bad,,Good,,Good,,"M1 should be similar to M2, mostly flared data"
+0112240101,,Good,,Good,,Good,"PNU002 (with less observing time), PNU003 are good"
+0112240201,Good,,Good,,Good,,PN is mostly flared
+0112240301,Good,,Good,,Good,,
+0112240401,Bad,,Bad,,Good,,"Mostly flared data, M1/M2 should have some gaussian"
+0112260101,Good,,Good,,Good,,
+0112260201,Good,,Good,,Good,,
+0112260301,Good,,Good,,Good,,
+0112260401,Good,,Good,,Good,,
+0112260501,Good,,Good,,Bad,,"Mostly flared data, PN should have some gaussian?"
+0112260801,Good,,Bad,,Bad,,"M2 should be similar to M1, PN should have gaussian?"
+0112310201,Good,,Good,,Good,,
+0112500101,Good,,Good,,Good,,
+0112500201,Good,,Good,,Bad,,"M1/M2 kinda flared, PN is all flared"
+0112850201,Good,,Good,,Good,,
+0112950301,Good,,Good,,Good,,
+0112950401,Good,,Bad,,Good,,M2 should be similar to M1
+0112950501,Good,,Good,,Bad,,Mostly flared data
+0112950601,Good,,Good,,Good,,
+0112950701,Bad,,Bad,,Bad,,Flared data
+0112950801,Good,Bad,Good,Good,Bad,,M1U and PN should have some sort of fit
+0112950901,Bad,,Bad,,Good,,Mostly flared data with very less observing time for M1/M2
+0112951001,Good,Bad,Good,Bad,,,M1U and M2U are flared
+0112951501,Good,,Good,,Good,,
+0112951601,Good,,Good,,Good,,
+0123900101,Good,,Good,,Good,,
+0135120201,Good,,Good,,Good,,
+0136740101,,Good,,Good,Good,,
+0136740201,Good,,Good,,Good,,Mostly flared data though
+0136950201,Good,,Good,,Good,,
+0141380101,Good,?,Good,?,Bad,,PN should have gaussian? M1U/M2U have less data
+0141380201,Bad,Good,Good,Good,Good,,Gaussian didn't fit well for M1
+0142240101,Good,,Good,,Good,,
+0142240201,Good,,Bad,,Good,,
+0144310101,Good,,Good,,Good,,
+0145540101,Good,,Good,,,Good,
+0147040101,Good,,Bad,,,,M1 flared
+0147330101,,Good,,Good,Good,,"M1U003, M1U004, M2U003, M2U004 good"
+0147800101,Good,,Good,,Good,,
+0149670101,Good,,Good,,Good,,
+0149670301,Good,,Good,,Good,,
+0149880101,Good,,Good,,Good,,About half of the data seems flared
+0200120401,Good,,Good,,Bad,,"For M1,M2 about half of the data is flared, PN should have better fit?"
+0200270101,Good,,Good,,Good,,
+0201670201,Good,,Good,,,Good,
+0201780101,Good,,Good,,Good,,Latter half of the data is mostly flared
+0201900201,Good,Bad,Good,,Bad?,,More than latter half of the data is mostly flared for M1S/M2S
+0201900401,Good,,Good,,Good,,
+0201900501,Good,,Good,,Bad,,Flared data for PN?
+0201901601,Good,,Good,,,,
+0201902001,Good,,Good,,Good,,
+0201902601,Good,,Good,,Good,,
+0201902701,Good,,Good,,Good,,
+0201903801,Good,,Good,,Good,,
+0202080201,Good,,Good,,Good,,
+0202360101,Good,,Good,,,,
+0203020101,Good,,Good,,,Good,
+0203390901,Good,,Good,,,Good,
+0204180101,Good,,Good,,Good,,
+0204410201,Bad,Bad,Bad,Bad,Bad,,Flared data
+0204460101,Good,,Good,,Good,,
+0204610101,Good,Bad,Good,Bad,Good,,"Flared data for M1U and M2U, bad fit for M2U"
+0205190101,Good,,Good,,Good,,
+0205190201,Good,,Good,,Good,,
+0300210201,Good,,Good,,,Good,
+0300210301,Good,,Good,,Good,,More than half of the data is flared
+0300210401,Good,,Good,,Good,,
+0300211301,Good,,Good,,Good,,
+0300211401,Good,,Good,,Good,,
+0300320101,Good,,Bad,,Bad,,Bad fits for M2 and PN
+0300350301,Good,,Good,,Bad,,"About 75% of the data seems flared for M1, M2; PN mostly flared"
+0300350401,Bad,,Bad,,Bad,,Flared data
+0300920101,Good,,Good,,Good,,More than half of the data is flared
+0303930101,Good,,Good,,Good,,More than half of the data is flared
+0303930201,,?,,Bad,Bad,,Mostly flared data
+0400130101,Good,,Good,,Good,,
+0400130201,Good,,Good,,Good,,
+0401520301,Bad,,Bad,,Bad,,Flared data
+0401520501,,Bad,,Good,,,"M1 should be similar to M2, PNU looks flared"
+0401520601,Good,,Bad,,,,"Mostly flared data, M2 should be similar to M1, PNU is bad"
+0401520801,Good,,Good,,Good,,PN is mostly flared though
+0401520901,Good,,Good,,Good,,PN is mostly flared though
+0401521101,Good,,Good,,Good,,PN is mostly flared though
+0401521201,,Good,,Good,,Good,
+0401521301,Good,,Good,,Good,,Mostly flared data though
+0401521601,,Good,,Good,,,PN is mostly flared though
+0401521701,Good,,Good,,Bad,,PN is flared
+0401610101,Good,,Good,,Bad,,PN is flared
+0401920101,Good,,Good,,Good,,
+0402190101,Good,,Good,,Good,,PN is mostly flared though
+0402190501,?,,?,,,,
+0404240101,Good,,Good,,Good,,
+0404520101,,Good,,Good,,Good,
+0404520301,,Good,,Good,,Good,Mostly flared data though
+0404520501,Good,,Good,,Good,,
+0404910101,Good,,Good,,Bad,,PN is flared
+0404910201,Good,,Good,,Good,,
+0404911301,Good,,Good,,Good,,
+0405380701,Good,,Good,,Good,,Mostly flared data though
+0406610501,,,,,,,Empty folder
+0501850201,Good,,Good,,Good,,
+0502670401,?,?,?,?,,,Algorithm might be working? Less observing time
+0502671101,Good,,Good,,,,
+0502790101,Good,,Good,,,,
+0504101801,Good,,Good,,Good,,
+0504280101,Good,,Good,,Good,,
+0505210201,Good,,Good,,Bad,,Algorithm messed up for PN
+0505210601,Good,,Good,,Good,,
+0505211001,Good,,Good,,Good,,
+0506260301,Good,,Good,,Good,,
+0506260401,Good,,Good,,Good,,
+0550360101,Good,,Good,,Good,,
+0551780201,Good,,Good,,Good,,
+0551780301,Good,,Good,,Good,,
+0551780401,Good,,Good,,Good,,
+0551780501,Good,,Good,,Good,,
+0556200101,Good,,Good,,Good,,
+0556200301,Good,,Good,,Good,,
+0556200501,Good,,Good,,Good,,
+0556210501,,Good,,Good,,Good,
+0601980101,Good,,Good,,Good,,
+0601980201,Good,,Good,,Good,,
+0601980301,Good,,Good,,Good,,Latter half of the data is flared
+0603050101,Good,,Good,,Good,,
+0603050201,Good,,Good,,Good,,
+0605880101,Good,,Good,,Good,,
+0651590101,Good,,Good,,Good,,
+0651590201,Good,,Good,,Good,,Half of the data seems flared though
+0671900101,Good,,Good,,Good,,
+0672910101,Good,,Good,,Good,,
+0674491301,Good,,Good,,Good,,Half of the data seems flared though
+0674560201,Good,,Good,,Good,,
+0674740201,Good,,Good,,Good,,Half of the data seems flared though
+0675470201,,Good,,Good,,Good,"Less observing time for M1 and M2, but algorithm works well?"
+0675470301,Good,,Good,,Good,,
+0675470401,Good,,Good,,Bad,,Algorithm messed up for PN
+0675470501,Good,,Good,,Good,,
+0675470601,Good,,Good,,Good,,
+0675470701,Good,,Good,,Good,,
+0675470801,Good,,Good,,Good,,
+0675470901,Bad,,?,,Bad,,Flared data?
+0675471001,Good,,Good,,,,Algorithm messed up for PN
+0675471201,Good,Good,Bad,Bad,Bad,,M2 should be similar to M1; Algorithm messed up for PN
+0675471301,Good,,Good,,Bad,,Mostly flared M1/M2 but algorithm working?; PN is flared
+0675471801,Good,,Good,,Good,,
+0675471901,Good,,Good,,Good,,
+0675472001,Good,,Good,,Good,,
+0675472101,Good,,Good,,Good,,
+0675472201,Good,,Good,,Good,,
+0675472301,Good,,Good,,Good,,Former half of the data is flared though
+0675472401,Good,,Good,,Good,,
+0675472601,Good,,Good,,Good,,"Most of the data looks flared, but algorithm seems to be working"
+0675472901,Good,,Good,,Good,,
+0677180101,Good,,Good,,Good,,
+0677180201,Good,,Good,,Good,,
+0677180301,Good,,Good,,Good,,
+0677180401,Good,,Good,,Good,,
+0677180501,Good,,Good,,Good,,
+0677180601,Good,,Good,,Good,,
+0677182301,Good,,Good,,Good,,Former half of the data is flared though
+0691010101,Good,,Good,,Good,,
+0691010901,Good,,Good,,Good,,Most of the data flared for PN though
+0691011001,Good,,Good,,Good,,
+0692930901,Good,,Good,,Good,,
+0694440101,Good,,Good,,Good,,
+0694440201,Good,,Good,,Good,,
+0694440301,Good,,Good,,Good,,About 80% of the data is flared though
+0694440401,Good,,Good,,Good,,
+0694440501,Good,,Good,,Good,,
+0694440601,Good,,Good,,Good,,
+0694440701,Good,,Good,,Good,,
+0694440801,Good,,Good,,Good,,
+0720250201,Good,Good,Good,Good,Bad,,Algorithm messed up for PN; Less observing time for others
+0720250301,Good,,Good,,Good,,
+0720250401,?,,Good,,Good,,70 second observation for M1
+0720250501,Good,,Good,,Good,,Mostly flared though for PN
+0720250701,Good,,Good,,Good,,
+0720250801,Good,,Good,,Good,,Most of the data is flared
+0720251101,Good,,Good,,Bad,,PN is flared
+0720251201,Good,,Good,,Good,,
+0720251301,Good,,Good,,Good,,
+0720252201,Good,,Good,,Good,,
+0720252501,Good,,Good,,Good,,
+0720252901,Good,,Good,,Bad,,PN is flared
+0720253101,Good,,Good,,Good,,
+0721740101,Good,,Good,,Good,,
+0723800801,Good,,Good,,Good,,
+0723800901,Good,,Good,,Good,,
+0723801001,Good,,Good,,Good,,
+0723801101,Good,,Good,,Good,,
+0723801201,Good,,Good,,Good,,
+0723801301,Good,,Good,,Good,,
+0723801501,Good,,Good,,Good,,
+0723801601,Bad,Bad,Bad,Bad,Bad,,Algorithm not working well
+0723801701,Good,,Good,,Good,,
+0723802001,Good,,Good,,,Good,Former half of the data for PN is flared
+0723802101,Good,,Good,,Good,,
+0723802201,Good,,Good,,Good,,
+0725240101,Good,,Good,,Good,,
+0740900101,Good,,Good,,Good,,
+0741200101,Good,,Good,,Good,,
+0744220401,Good,,Good,,Good,,Corner light curve missing for PN? ERROR--YMIN = YMAX in window   3
+0744410501,Good,,Good,,Good,,
+0744410601,Good,,Good,,Good,,
+0744410701,Good,,Good,,Good,,
+0744410801,Bad,,Bad,,Bad,,Algorithm didn't work well
+0744410901,Good,,Good,,Good,,
+0744411001,Good,,Good,,Good,,
+0744411101,Good,,Good,,Good,,
+0744411201,Good,,Good,,Good,,
+0744411301,Good,,Good,,Good,,
+0744411401,Good,,Good,,Good,,
+0744411501,Good,,Good,,Good,,
+0744411601,Good,,Good,,Good,,
+0744411701,Good,,Good,,Good,,
+0744411801,Good,,Good,,Good,,
+0744411901,Good,,Good,,Good,,
+0744412001,Good,,Good,,Good,,
+0744412101,Good,,Good,,Good,,
+0744412701,Good,,Good,,Good,,
+0744412801,Good,,Good,,Good,,
+0744412901,Good,,Good,,Good,,
+0744413001,,Good,,Good,,Good,
+0744413101,Good,,Good,,Good,,
+0744413201,Good,,Good,,Good,,
+0744413301,Good,,Good,,Good,,
+0744413401,Good,,Good,,Good,,
+0744930101,Good,,Good,,,Good,
+0744930201,Good,,Good,,Good,,
+0744930301,Good,,Good,,Good,,
+0744930401,Good,,Good,,Good,,
+0760340201,Good,,Good,,Good,,
+0760940101,Good,,Good,,Good,,
+0761550101,Good,Good,Good,Good,,Good,
+0761550201,Good,,Good,,Good,,
+0762470101,Good,,Good,,Good,,
+0762470201,Bad,,Bad,,Bad,,Algorithm didn’t work well for M1/M2; PN just looks flared
+0765000401,Good,,Good,,Good,,
+0765010401,Bad,,Bad,,,,It seems to be mostly flared
+0765010501,Good,,Good,,Good,,
+0765021201,Good,,Good,,Good,,
+0765031101,Good,,Good,,Good,,
+0765040601,Good,,Good,,Good,,Latter half of the data is flared
+0765041201,Good,,Good,,Good,,
+0782531001,Good,,Good,,Good,,
+0782720301,Good,,Good,,Good,,
+0783270101,Good,,Good,,Good,,Corner light curve missing ERROR--YMIN = YMAX in window 3
+0783380101,Good,,Good,,Good,,
+0783380131,Good,,Good,,Good,,PN mostly flared
+0783380132,Good,,Good,,Good,,
+0783380133,Good,,Good,,Good,,
+0783380134,Good,,Good,,Good,,
+0783380135,Good,,Bad,,Good,,Gaussian for M2 should be similar to M1; PN mostly flared
+0783380136,Good,,Good,,Good,,
+0783380137,Good,,Good,,Good,,
+0783380138,Good,,Good,,Good,,
+0783380148,Bad,,Good,,Good,,Algorithm didn't work for M1
+0783380149,Bad,,Good,,Good,,Algorithm didn't work for M1
+0783380150,Bad,,Good,,Good,,Algorithm didn't work for M1
+0783380151,Bad,,Good,,Good,,Algorithm didn't work for M1
+0783380152,Bad,,Good,,Good,,Algorithm didn't work for M1
+0783380153,Bad,,Good,,Good,,Algorithm didn't work for M1
+0783380154,Good,,Good,,Good,,Latter half of the data is flared
+0784370501,Good,Good,Good,Good,Good,Good,
+0784521101,Good,,Good,,Good,,
+0784521201,Good,,Good,,Good,,
+0784521301,Good,,Good,,Good,,
+0784521401,Good,,Good,,Good,,
+0784521501,Good,,Good,,Good,,
+0785130501,Good,,Good,,,,
+0800380101,,Good,,Good,,Good,
+0800630101,Good,,Good,,Good,,
+0800760101,Good,,Good,,Good,,
+0801930901,,Good,,Good,,Good,
+0802750501,Good,,Good,,Good,,
+0802830201,Good,,Good,,Good,,About 25% of the starting data is useful
+0821270601,Good,,Good,,Good,,About half of the data is flared
+0821270801,Good,,Good,,Good,,
+0821310101,Good,,Good,,Bad,,"PN is flared, about 50% flared for M1/M2"
+0821310201,Good,,Good,,Good,,PN is mostly flared
+0821690301,Good,,Good,,Good,,
+0821871401,Good,,Good,,Good,,
+0822350101,Bad,Good,Bad,Good,Good,,Not a very long exposure for M1/M2
+0822391001,Good,,Good,,Good,,
+0822590701,Good,,Good,,Good,,Former half of the data is mostly flared
+0823650101,Bad,Good,Good,,Good,,Not a long exposure for M1; PN is mostly flared
+0823650301,Good,,Good,,Good,,
+0823650401,Good,,Good,,Good,,
+0823650501,Bad,,Bad,,,,Very less exposure
+0823650601,Good,,Good,,Good,,
+0823650701,Good,,Good,,Good,,
+0824230201,Good,,Good,,Good,,
+0824450701,Good,,Good,,Good,,
+0827010501,Good,,Good,,Good,,
+0827010601,Good,,Good,,Good,,
+0827010801,Good,,Good,,Good,,
+0827021201,Good,,Good,,Good,,
+0827030801,Good,,Good,,Good,,Latter half of the data is flared
+0827030901,Good,,Good,,Good,,Former half of the data flared for M1/M2; PN is mostly flared
+0827031101,Good,,Good,,Good,,
+0827031901,Good,,Good,,Good,,
+0827041901,Good,,Good,,Good,,
+0827320401,Good,,Good,,Good,,
+0827340601,Good,,Good,,Good,,
+0827361101,Good,,Good,,Good,,
+0841570501,Good,,Good,,Good,,
+0843430401,Good,,Good,,Good,,
+0843890101,Good,,Good,,Good,,
+0843890201,Good,,Good,,Good,,
+0843890301,Good,,Good,,Good,,
+0844050101,Good,,Bad,,Good,,Algorithm didn't work for M2
+0844050201,Good,,Good,,Good,,PN is mostly flared
+0884050301,Good,,Good,,Good,,
+0844050401,Good,,Good,,Good,,
+0844050501,Good,,Good,,Good,,
+0844050601,Good,,Good,,Good,,
+0844050701,Good,,Good,,Good,,
+0844180301,Good,,Good,,Good,,
+0861150101,Good,,Good,,Good,,
+0861150201,Good,,Good,,Good,,
+0861150301,Good,,Good,,Good,,
+0862640901,Good,,Good,,Good,,
+0864050501,Good,,Good,,Good,,
+0864050601,Good,,Good,,Good,,
+0864053001,Good,,Good,,Good,,
+0864053501,Good,,Good,,Good,,Former half of the data for PN is flared
+0864480301,Good,,Good,,Good,,
+0865350101,Good,,Good,,Good,,
+0865350201,Good,,Good,,Good,,
+0865350301,Good,,Good,,Good,,
+0880810101,Good,,Bad,,Good,,Algorithm didn't work for M2
+0880810201,Good,,Good,,Good,,
+0880810501,Good,,Good,,Good,,
+0881190101,Good,,Good,,Good,,More than half of the data flared
+0881190201,Good,,Good,,Good,,
+0881190301,Good,,Good,,Good,,
+0881210101,Good,,Good,,Good,,
+0881210201,Good,,Good,,Good,,
+0882110401,Good,,Good,,Good,,
+0911790201,Good,Bad,Good,Bad,Good,Bad,Unscheduled ones look flared
+0911791101,Good,,Good,,Good,,
