@@ -1,6 +1,7 @@
 # Added for this particular project
 *xga_output
 *.ipynb_checkpoints
+data
 
 
 # Byte-compiled / optimized / DLL files
