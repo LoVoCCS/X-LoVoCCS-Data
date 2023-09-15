@@ -1,0 +1,1 @@
+This part of the repository contains any analysis/forecasting that was performed in relation to X-ray telescope observing proposals for the LoVoCCS sample.
