@@ -2,6 +2,7 @@
 *xga_output
 *.ipynb_checkpoints
 data
+combined-release-v1.1-LM_opt_mass.fits
 
 
 # Byte-compiled / optimized / DLL files
