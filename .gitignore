@@ -2,6 +2,7 @@
 *xga_output
 *.ipynb_checkpoints
 data
+lovoccs_checklist_lite.csv
 
 
 # Byte-compiled / optimized / DLL files
