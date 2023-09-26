@@ -4,6 +4,7 @@
 data
 lovoccs_checklist_lite.csv
 lotssdr2_lovoccs60.fits
+skyview_cutouts
 
 
 # Byte-compiled / optimized / DLL files
